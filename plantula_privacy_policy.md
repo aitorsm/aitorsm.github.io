@@ -1,1 +1,0 @@
-## Plantula Privacy Policy
