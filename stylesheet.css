@@ -1,0 +1,38 @@
+header{
+    background-color: darkblue;
+}
+h1.headerh1{
+    color: orangered;
+    
+}
+h2.headerh2{
+    color: orange;
+}
+ul.navul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li.navli{
+    font-size: large;
+    color: red;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: orangered;   
+}
+
+a:hover{
+    color: red;
+}
+nav{
+    background-color : gray;
+}
+
+article{
+    background-color: beige;
+}
+
